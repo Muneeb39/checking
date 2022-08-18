@@ -248,8 +248,8 @@ def menu(my_name,my_id):
 		print('➪ Successful Logout+Delete Cookies ')
 		exit()
 	else:
-		print('➪ Choose the right one
- ')
+		print('➪ Choose the right one')
+
 		back()
 def error():
 	print(f'{k}➪ Sorry, this feature is still being improved {x}')
